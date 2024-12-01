@@ -1,4 +1,4 @@
-- Only git archive
+-Git archive
 - codes amaze me
 - Sometimes reverse engineer stuff...
 <!---
