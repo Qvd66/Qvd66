@@ -1,5 +1,5 @@
 - Git archive
-- codes amaze me
+- Codes amaze me
 - Sometimes reverse engineer stuff...
 <!---
 Qvd66/Qvd66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
